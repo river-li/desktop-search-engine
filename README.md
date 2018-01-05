@@ -1,1 +1,9 @@
 # desktop-search-engine
+此内容为2017下半年（大二下学期）用一晚上突击写出来的数据结构大作业
+功能：搜索本地目录下的所有文本文件，对其进行分词后可以直接查询关键词
+window文件为程序开始的主文件
+untitled、untitled2分别为两个窗口的代码
+
+SearchFiles和DivWords分别是记录几个重要函数与类的文件
+测试环境为linux，保存索引文件目录为/home/river/index.txt
+更改目录在DivWords文件中修改即可
